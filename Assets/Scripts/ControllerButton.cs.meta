@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: df9a4d69ddd272945bf7e35be9c0e2ea
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - loseAnim: {instanceID: 0}
+  - winAnim: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
